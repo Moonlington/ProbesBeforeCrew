@@ -73,7 +73,7 @@ TODO: Add links and up to date instructions. (mention CKAN and manual install)
 
 ## Wiki
 - [Recommended Settings](https://github.com/Moonlington/ProbesBeforeCrew/wiki/Recommended-Settings)
-- [PBC Mission Statement](https://github.com/Moonlington/ProbesBeforeCrew/wiki/PBC-Mission-Statement)
+- [PBC Rationale](https://github.com/Moonlington/ProbesBeforeCrew/wiki/PBC-Rationale)
 
 ## Changelog
 See [CHANGELOG.md](CHANGELOG.md)
