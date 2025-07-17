@@ -1,14 +1,14 @@
-**//// Version 2.93 Changes**
+**//// Version 2.9.3 Changes**
 
 Added support for 38 new parts from StationPartsExtendedRedux (thanks for the heads up @Cholerix)\
 Updated Core Chart with SPER image
 
-**//// Version 2.92 Changes**
+**//// Version 2.9.2 Changes**
 
 Increased EVA Suit mass carry limit from .1 to .105 (weather unit)\
 Updated Kerbalism patch with 11 new parts, Prosemian containers (thanks @kitamoboz)
 
-**//// Version 2.91 Changes**
+**//// Version 2.9.1 Changes**
 
 *Antenna Range Rework, adjusting recommended DSN modifier from 80% to 35%\
 - Increased low-end Relay from 5M to 20M\
