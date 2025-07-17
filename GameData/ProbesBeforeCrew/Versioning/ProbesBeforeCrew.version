@@ -1,13 +1,13 @@
 {
 	"NAME":"ProbesBeforeCrew",
-	"URL":"http://ksp-avc.cybutek.net/version.php?id=605",
+	"URL":"https://raw.githubusercontent.com/Moonlington/ProbesBeforeCrew/main/ProbesBeforeCrew/Versioning/ProbesBeforeCrew.version",
 	"DOWNLOAD":"https://forum.kerbalspaceprogram.com/index.php?/topic/181013-ksp-161-probes-before-crew-pbc-version-21/&",
 	
 	"VERSION":
 	{
 		"MAJOR":2,
 		"MINOR":9,
-		"PATCH":3,
+		"PATCH":4,
 		"BUILD":0
 	},
 	"KSP_VERSION":
