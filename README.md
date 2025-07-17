@@ -72,7 +72,8 @@ You will feel the difference between 100% > 90% > 80%.**
 TODO: Add links and up to date instructions. (mention CKAN and manual install)
 
 ## Wiki
-TODO: Add github wiki page for 'Recommended Settings', 'Details about the mod'
+- [Recommended Settings](https://github.com/Moonlington/ProbesBeforeCrew/wiki/Recommended-Settings)
+- [PBC Mission Statement](https://github.com/Moonlington/ProbesBeforeCrew/wiki/PBC-Mission-Statement)
 
 ## Changelog
 See [CHANGELOG.md](CHANGELOG.md)
