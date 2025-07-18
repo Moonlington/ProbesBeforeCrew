@@ -1,13 +1,13 @@
 {
 	"NAME":"ProbesBeforeCrew",
-	"URL":"https://raw.githubusercontent.com/Moonlington/ProbesBeforeCrew/main/ProbesBeforeCrew/Versioning/ProbesBeforeCrew.version",
+	"URL":"https://raw.githubusercontent.com/Moonlington/ProbesBeforeCrew/main/GameData/ProbesBeforeCrew/Versioning/ProbesBeforeCrew.version",
 	"DOWNLOAD":"https://forum.kerbalspaceprogram.com/index.php?/topic/181013-ksp-161-probes-before-crew-pbc-version-21/&",
 	
 	"VERSION":
 	{
 		"MAJOR":2,
 		"MINOR":9,
-		"PATCH":4,
+		"PATCH":3,
 		"BUILD":0
 	},
 	"KSP_VERSION":
