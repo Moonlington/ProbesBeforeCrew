@@ -21,5 +21,6 @@ jobs:
     - name: Upload Release
       uses: ncipollo/release-action@v1.12.0
       with:
+        name: "Probes Before Crew ${{ github.ref_name }}"
         artifacts: "Probes_Before_Crew-${{ github.ref_name }}.zip"
         token: ${{ secrets.GITHUB_TOKEN }}
