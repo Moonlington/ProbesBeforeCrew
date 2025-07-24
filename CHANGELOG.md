@@ -3,6 +3,13 @@ v2.10.0
 - Removed dependency on Celestial Body Science Multiplier Editor
 - Added dependency on Kopernicus
 - Added missing FOR passes to PBC patches
+- Added support for VAB Organizer (for the two custom parts)
+- Moved the Mammoth, Place Anywhere 1 RCS, Personal Parachute, and EVA Jetpack to more logical locations
+- Added support for Procedural Fairings
+- Added support for OPM
+- Added support for the updated Near Future Electrics
+- Added support for RestockPlus
+- Added support for RemoteTech Redev Antennas
 
 v2.9.3
 =====
