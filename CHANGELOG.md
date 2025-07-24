@@ -1,3 +1,9 @@
+v2.10.0
+=====
+- Removed dependency on Celestial Body Science Multiplier Editor
+- Added dependency on Kopernicus
+- Added missing FOR passes to PBC patches
+
 v2.9.3
 =====
 - Added support for 38 new parts from StationPartsExtendedRedux (thanks for the heads up @Cholerix)
