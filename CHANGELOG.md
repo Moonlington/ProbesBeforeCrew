@@ -1,4 +1,4 @@
-v2.10.0
+v3.0.0
 =====
 - Removed dependency on Celestial Body Science Multiplier Editor
 - Added dependency on Kopernicus
