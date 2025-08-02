@@ -4,7 +4,7 @@ v3.0.0
 - Added dependency on Kopernicus
 - Added missing FOR passes to PBC patches
 - Added support for VAB Organizer (for the two custom parts)
-- Moved the Mammoth, Place Anywhere 1 RCS, Personal Parachute, and EVA Jetpack to more logical locations
+- Moved the Mammoth, Place Anywhere 1 RCS, Oscar-B, Personal Parachute, and EVA Jetpack to more logical locations
 - Added support for Procedural Fairings
 - Added support for OPM
 - Added support for the updated Near Future Electrics
