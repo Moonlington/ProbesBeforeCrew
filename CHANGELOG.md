@@ -1,15 +1,20 @@
 v3.0.0
 =====
 - Removed dependency on Celestial Body Science Multiplier Editor
-- Added dependency on Kopernicus
+- Added dependency on Kopernicus (replaces CBSM functionality)
 - Added missing FOR passes to PBC patches
+- Added missing AFTER passes to Universal Storage 2 patches
 - Added support for VAB Organizer (for the two custom parts)
-- Moved the Mammoth, Place Anywhere 1 RCS, Oscar-B, Personal Parachute, and EVA Jetpack to more logical locations
+- Added support for Restock retextures (for the Tiny Basic Fin)
+- Moved the Mammoth, Place Anywhere 1 RCS, Oscar-B, TS-06 Stack Separator, Personal Parachute, and EVA Jetpack to more logical locations
+- Moved the Making History Minified Monopropellant Tank and Heat Shield (1.875m) to more logical locations
+- Added support for OPM (science values only, no contracts)
 - Added support for Procedural Fairings
-- Added support for OPM
-- Added support for the updated Near Future Electrics
-- Added support for RestockPlus
 - Added support for RemoteTech Redev Antennas
+- Added support for RestockPlus, FINALLY!
+- Added support for Science Lab Info
+- Updated support for Missing History
+- Updated support for Near Future Electrical
 
 v2.9.3
 =====
