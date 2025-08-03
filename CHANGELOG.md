@@ -11,7 +11,7 @@ v3.0.0
 - Added support for OPM (science values only, no contracts)
 - Added support for Procedural Fairings
 - Added support for RemoteTech Redev Antennas
-- Added support for RestockPlus
+- Added support for RestockPlus, FINALLY!
 - Added support for Science Lab Info
 - Updated support for Missing History
 - Updated support for Near Future Electrical
