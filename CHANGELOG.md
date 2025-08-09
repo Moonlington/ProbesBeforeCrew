@@ -17,7 +17,7 @@ v3.0.0
 - Updated support for Missing History
 - Updated support for Near Future Electrical
 - Updated support for USI Life Support
-- Tweaked support for Stockalike Station Parts Expansion Redux (moved one part)
+- Tweaked support for Stockalike Station Parts Expansion Redux (moved two parts)
 
 v2.9.3
 =====
