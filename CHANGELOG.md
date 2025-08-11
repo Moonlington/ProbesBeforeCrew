@@ -6,7 +6,7 @@ v3.0.0
 - Added missing AFTER passes to Universal Storage 2 patches
 - Added support for VAB Organizer (for the two custom parts)
 - Added support for Restock retextures (for the Tiny Basic Fin)
-- Moved the Mammoth, Place Anywhere 1 RCS, Oscar-B, TS-06 Stack Separator, FL-A10 Adapter, Personal Parachute, and EVA Jetpack to more logical locations
+- Moved the Mammoth, Place Anywhere 1 RCS, Oscar-B, TS-06 Stack Separator, FL-A10 Adapter, Small Hardpoint, Personal Parachute, and EVA Jetpack to more logical locations
 - Moved the Making History Minified Monopropellant Tank and Heat Shield (1.875m) to more logical locations
 - Added support for Kerbal Engineer Redux
 - Added support for OPM (science values only, no contracts)
