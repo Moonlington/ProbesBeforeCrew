@@ -2,7 +2,7 @@ v3.0.0
 =====
 - Removed dependency on Celestial Body Science Multiplier Editor
 - Added dependency on Kopernicus (replaces CBSM functionality)
-- Moved 8 stock parts to more logical locations
+- Moved 9 stock parts to more logical locations
 - Moved 5 Making History parts to more logical locations
 - Removed multi-hop capability from stock Mk2 Drone Core
 - Added missing FOR passes to PBC patches
