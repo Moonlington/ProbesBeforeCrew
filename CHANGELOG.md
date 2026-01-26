@@ -1,27 +1,21 @@
 v3.0.0
 =====
-- Removed dependency on Celestial Body Science Multiplier Editor
-- Added dependency on Kopernicus (replaces CBSM functionality)
-- Moved 9 stock parts to more logical locations
-- Moved 5 Making History parts to more logical locations
-- Removed multi-hop capability from stock Mk2 Drone Core
-- Added missing FOR passes to PBC patches
-- Added support for VAB Organizer (two custom parts)
-- Added support for Restock retextures (Tiny Basic Fin)
-- Added support for RestockPlus
-- Added support for Kerbal Engineer Redux
-- Added support for OPM (science values only, no contracts)
-- Added support for Procedural Fairings
-- Added support for RemoteTech Redev Antennas
-- Added support for Science Lab Info
-- Updated support for B9 Aerospace
-- Updated support for Mark IV Spaceplane
-- Updated support for Missing History
-- Updated support for Near Future Electrical
-- Updated support for Universal Storage 2
-- Updated support for USI Life Support
-- Updated support for SCANsat
-- Updated support for Station Parts Expansion Redux
+Added RestockPlus support
+Added RemoteTech Redev Antennas support
+Added KerbalEngineer support
+Added Science Lab Info support
+Added System Heat support
+Removed ScienceParamModifier provided by DMagic and replaced its functionality with Kopernicus, planetary modifiers remain the same. Kopernicus and its supporting folders will be packaged with PBC moving forward.
+Added Science Multipliers for Outer Planets Mod via Kopernicus (still no contracts though)
+Updated all Near Future support patches (except for NF Exploration, coming soon)
+Updated/corrected many minor issues across all support patches, removed duplicate parts
+Added more VabOrganizer patches
+Reordered most 0.6m tanks and engines to appear earlier in the tree
+Buffed PBC contract cash output to make building upgrades a bit less grindy
+Lowered the required altitude of Solar contract from 180Mm to 99Mm
+Updated most drone cores to utilize ProbeControlPoint with multiHop set to False
+Changed SSPxR remote telescope experiment to match Vanilla Infrared Telescope experiment (a change similar to removing stock Magnetomer when DMagic duplicate part is present)
+Shifted RemoteTech antenna with range 25bil and above to 1 node earlier, should make Duna-Eve-Dres missions more feasible
 
 v2.9.3
 =====
