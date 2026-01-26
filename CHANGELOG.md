@@ -1,21 +1,21 @@
 v3.0.0
 =====
-Added RestockPlus support
-Added RemoteTech Redev Antennas support
-Added KerbalEngineer support
-Added Science Lab Info support
-Added System Heat support
-Removed ScienceParamModifier provided by DMagic and replaced its functionality with Kopernicus, planetary modifiers remain the same. Kopernicus and its supporting folders will be packaged with PBC moving forward.
-Added Science Multipliers for Outer Planets Mod via Kopernicus (still no contracts though)
-Updated all Near Future support patches (except for NF Exploration, coming soon)
-Updated/corrected many minor issues across all support patches, removed duplicate parts
-Added more VabOrganizer patches
-Reordered most 0.6m tanks and engines to appear earlier in the tree
-Buffed PBC contract cash output to make building upgrades a bit less grindy
-Lowered the required altitude of Solar contract from 180Mm to 99Mm
-Updated most drone cores to utilize ProbeControlPoint with multiHop set to False
-Changed SSPxR remote telescope experiment to match Vanilla Infrared Telescope experiment (a change similar to removing stock Magnetomer when DMagic duplicate part is present)
-Shifted RemoteTech antenna with range 25bil and above to 1 node earlier, should make Duna-Eve-Dres missions more feasible
+- Added RestockPlus support
+- Added RemoteTech Redev Antennas support
+- Added KerbalEngineer support
+- Added Science Lab Info support
+- Added System Heat support
+- Removed ScienceParamModifier provided by DMagic and replaced its functionality with Kopernicus, planetary modifiers remain the same. Kopernicus and its supporting folders will be packaged with PBC moving forward.
+- Added Science Multipliers for Outer Planets Mod via Kopernicus (still no contracts though)
+- Updated all Near Future support patches (except for NF Exploration, coming soon)
+- Updated/corrected many minor issues across all support patches, removed duplicate parts
+- Added more VabOrganizer patches
+- Reordered most 0.6m tanks and engines to appear earlier in the tree
+- Buffed PBC contract cash output to make building upgrades a bit less grindy
+- Lowered the required altitude of Solar contract from 180Mm to 99Mm
+- Updated most drone cores to utilize ProbeControlPoint with multiHop set to False
+- Changed SSPxR remote telescope experiment to match Vanilla Infrared Telescope experiment (a change similar to removing stock Magnetomer when DMagic duplicate part is present)
+- Shifted RemoteTech antenna with range 25bil and above to 1 node earlier, should make Duna-Eve-Dres missions more feasible
 
 v2.9.3
 =====
