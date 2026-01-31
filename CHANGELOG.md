@@ -1,6 +1,9 @@
 v3.1.0
 =====
 - Added Near Future Exploration support
+- Added CryoTanks support
+- Added CryoEngines support
+- Added CryoEngines Extensions support
 - Added Heat Control support
 - Added Space Dust support
 - Moved Making History 1.875m heat shield to match 3.0.0 RestockPlus placement
