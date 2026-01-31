@@ -6,6 +6,7 @@ v3.1.0
 - Added CryoEngines Extensions support
 - Added Heat Control support
 - Added Space Dust support
+- Added perfunctory entry costs (50 funds) to EVA Jetpack and Personal Parachute
 - Moved Making History 1.875m heat shield to match 3.0.0 RestockPlus placement
 - Moved RestockPlus/MissingHistory Valiant engine forward one node to match stock Swivel
 - Moved SSPxR 5m greenhouse to match other greenhouses
