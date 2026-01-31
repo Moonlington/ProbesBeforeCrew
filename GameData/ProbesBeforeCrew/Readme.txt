@@ -1,5 +1,5 @@
 
-Probes Before Crew Readme v3.0.0
+Probes Before Crew Readme v3.1.0
 by _Zee
 
 
@@ -56,9 +56,9 @@ and delete/remove the file.
 You could also rename the EXTENSION to disable the file, for example
 	= = Zs_Science.txt
 
-The |ScienceParamModifier| mod by DMagic packaged with this mod also overhauls Celestial Body Science Multipliers.
-If you deleted/removed/renamed the Zs_Science.cfg file above, then you will probably also want to delete this entire folder
-	= = GameData/ScienceParamModifier
+The Kopernicus config packaged with this mod also overhauls Celestial Body Science Multipliers.
+If you deleted/removed/renamed the Zs_Science.cfg file above, then you will probably also want to delete this file
+	= = GameData/_Core/Zs_ScienceMultipliers.cfg
 	
 Everything else will remain as PBC defines, including where the experiment parts are supposed to be on the tech tree.
 
@@ -72,5 +72,6 @@ PBC will automatically enable/disable its Science Defs depending on the Kerbalis
 
 
 ================================= (5) END =================================
+
 
 
