@@ -1,5 +1,13 @@
 v3.0.0
 =====
+- Added Near Future Exploration support
+- Added Heat Control support
+- Added Space Dust support
+- Moved RestockPlus/MissingHistory Valiant engine forward one node to match stock Swivel
+- Moved SSPxR 5m greenhouse to match other greenhouses
+
+v3.0.0
+=====
 - Added RestockPlus support
 - Added RemoteTech Redev Antennas support
 - Added KerbalEngineer support
