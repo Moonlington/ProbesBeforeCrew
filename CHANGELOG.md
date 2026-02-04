@@ -12,6 +12,7 @@ v3.1.0
 - Moved RestockPlus/MissingHistory Valiant engine forward one node to match stock Swivel
 - Moved SSPxR 5m greenhouse to match other greenhouses
 - Tweaked ElectricCharge value of RestockPlus 3.75m RGU
+- Tweaked ElectricCharge value of Near Future Construction Octo-Girder RGU
 - Updated GameData/ProbesBeforeCrew/Readme.txt with Kopernicus info, rather than the old CBSM mod
 
 v3.0.0
