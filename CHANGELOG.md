@@ -1,9 +1,6 @@
 v3.1.0
 =====
 - Added Near Future Exploration support
-- Added CryoTanks support
-- Added CryoEngines support
-- Added CryoEngines Extensions support
 - Added Heat Control support
 - Added Space Dust support
 - Added perfunctory entry costs (50 funds) to EVA Jetpack and Personal Parachute
