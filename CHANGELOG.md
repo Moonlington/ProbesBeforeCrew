@@ -1,3 +1,17 @@
+v3.1.0
+=====
+- Added Near Future Exploration support
+- Added Heat Control support
+- Added Space Dust support
+- Added perfunctory entry costs (50 funds) to EVA Jetpack and Personal Parachute
+- Moved stock FL-A10 Adapter to Stability, except if MissingHistory is installed
+- Moved Making History 1.875m heat shield and minified RCS tank to match equivalent 3.0.0 RestockPlus placements
+- Moved RestockPlus/MissingHistory Valiant engine forward one node to match stock Swivel
+- Moved SSPxR 5m greenhouse to match other greenhouses
+- Tweaked ElectricCharge value of RestockPlus 3.75m RGU
+- Tweaked ElectricCharge value of Near Future Construction Octo-Girder RGU
+- Updated GameData/ProbesBeforeCrew/Readme.txt with Kopernicus info, rather than the old CBSM mod
+
 v3.0.0
 =====
 - Added RestockPlus support
