@@ -3,6 +3,7 @@ v3.1.0
 - Added Near Future Exploration support
 - Added Heat Control support
 - Added Space Dust support
+- Added Science Multipliers for Minor Planets Expansion via Kopernicus (still no contracts though)
 - Added perfunctory entry costs (50 funds) to EVA Jetpack and Personal Parachute
 - Moved stock FL-A10 Adapter to Stability, except if MissingHistory is installed
 - Moved Making History 1.875m heat shield and minified RCS tank to match equivalent 3.0.0 RestockPlus placements
