@@ -1,3 +1,11 @@
+v3.2.0
+=====
+- Moved SSPxR radial base cradles to match vertical base frames and adjusted costs accordingly
+- Moved SSPxR remote telescope to match stock SENTINEL
+- Moved Near Future Electrical micro-reactors to match other reactors, rather than RTGs, and adjusted costs accordingly
+- Moved one adapter from Near Future Exploration
+- Moved one adapter from RestockPlus
+
 v3.1.0
 =====
 - Added Near Future Exploration support
