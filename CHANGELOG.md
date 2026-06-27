@@ -1,5 +1,10 @@
 v3.2.0
 =====
+- Added CryoTanks support
+- Added CryoEngines support
+- Added CryoEngines Extensions support
+- Added Kerbal Atomics support
+- Added Supplementary Electric Engines support
 - Moved SSPxR radial base cradles to match vertical base frames and adjusted costs accordingly
 - Moved SSPxR remote telescope to match stock SENTINEL
 - Moved Near Future Electrical micro-reactors to match other reactors, rather than RTGs, and adjusted costs accordingly
