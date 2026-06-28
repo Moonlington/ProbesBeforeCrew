@@ -10,6 +10,7 @@ v3.2.0
 - Moved Near Future Electrical micro-reactors to match other reactors, rather than RTGs, and adjusted costs accordingly
 - Moved one adapter from Near Future Exploration
 - Moved one adapter from RestockPlus
+- Patched USI-LS greenhouses to use SSPxR's plant growth experiment if both are installed
 
 v3.1.0
 =====
