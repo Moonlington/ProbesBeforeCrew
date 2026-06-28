@@ -6,7 +6,7 @@ v3.2.0
 - Added Kerbal Atomics support
 - Added Supplementary Electric Engines support
 - Moved SSPxR radial base cradles to match vertical base frames and adjusted costs accordingly
-- Moved SSPxR remote telescope to match stock SENTINEL
+- Moved SSPxR Oculus to match stock SENTINEL and patched Delphi to use stock experiment, similar to existing Oculus behavior
 - Moved Near Future Electrical micro-reactors to match other reactors, rather than RTGs, and adjusted costs accordingly
 - Moved one adapter from Near Future Exploration
 - Moved one adapter from RestockPlus
