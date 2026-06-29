@@ -11,6 +11,7 @@ v3.2.0
 - Moved one adapter from Near Future Exploration
 - Moved one adapter from RestockPlus
 - Patched USI-LS greenhouses to use SSPxR's plant growth experiment if both are installed
+- Patched KPBS greenhouse and cupola to use SSPxR's experiments if both are installed
 
 v3.1.0
 =====
