@@ -8,7 +8,7 @@ v3.2.0
 - Moved SSPxR radial base cradles to match vertical base frames and adjusted costs accordingly
 - Moved SSPxR Oculus to match stock SENTINEL and patched Delphi to use stock experiment, similar to existing Oculus behavior
 - Moved Near Future Electrical micro-reactors to match other reactors, rather than RTGs, and adjusted costs accordingly
-- Moved one adapter from Near Future Exploration
+- Moved one adapter from Near Future Construction
 - Moved one adapter from RestockPlus
 - Patched USI-LS greenhouses to use SSPxR's plant growth experiment if both are installed
 
