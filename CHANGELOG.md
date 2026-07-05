@@ -1,6 +1,6 @@
 v3.3.0
 =====
-- Added contract pack support for OPM
+- Added contract pack support for Outer Planets Mod
 - Fixed typo in Tylo probe contract landing parameter
 
 v3.2.0
