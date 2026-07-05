@@ -3,6 +3,7 @@ v3.3.0
 - Added contract pack support for Outer Planets Mod
 - Tweaked first orbit/return contract to net half its payout immediately on reaching orbit, rather than entirely on return, so you don't have to deorbit your first satellite if you don't want to
 - Fixed typo in Tylo probe contract landing parameter
+- Patched stock Oscar-B to always be available in Basic Rocketry as intended, rather than only if RestockPlus is installed
 
 v3.2.0
 =====
