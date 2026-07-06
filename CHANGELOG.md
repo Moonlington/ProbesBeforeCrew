@@ -1,3 +1,11 @@
+v3.3.0
+=====
+- Added contract pack support for Outer Planets Mod. These contracts act as a virtual Tier 5 of the existing contract pack, which will require you to perform landing missions to two of the moons of Jool before they unlock. They will not show up unless OPM is installed, so this has no effect on non-OPM users.
+- Exploration contracts for moons of planets beyond Duna and Eve should now unlock at the same time as those for their parent planets, rather than requiring an SOI entry contract parameter for the parent body to be met first. This change has been made to provide additional freedom in how you want to go about late-game exploration, as well as so that the player doesn't have to accept an extremely difficult atmospheric dive/return contract for gas giants just to complete the flyby parameter and unlock their moons.
+- Tweaked first orbit/return contract to net half its payout upon reaching orbit, rather than entirely upon return to the surface. This change has been made so that the player shouldn't feel obligated to immediately deorbit their first satellite for funds if they don't want to.
+- Fixed typo in Tylo probe contract landing parameter (no effect on gameplay).
+- Patched stock Oscar-B to always be available in Basic Rocketry as intended, rather than only if RestockPlus is installed.
+
 v3.2.0
 =====
 - Added CryoTanks support
