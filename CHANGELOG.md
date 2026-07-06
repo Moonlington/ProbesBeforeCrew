@@ -2,7 +2,7 @@ v3.3.0
 =====
 - Added contract pack support for Outer Planets Mod
 - Tweaked first orbit/return contract to net half its payout immediately on reaching orbit, rather than entirely on return, so you don't have to deorbit your first satellite if you don't want to
-- Exploration contracts for planetary moons should now unlock at the same time as those for their parent planets, rather than requiring an SOI entry contract parameter to be met first
+- Exploration contracts for moons of gas giants (Jool, Sarnus, Urlum, and Neidon) should now unlock at the same time as those for their parent planets, rather than requiring an SOI entry contract parameter to be met first (this way you don't have to accept an extremely difficult contract to dive into a gas giant and return from it in order to meet the flyby parameter before you can get payouts from its associated moons)
 - Fixed typo in Tylo probe contract landing parameter
 - Patched stock Oscar-B to always be available in Basic Rocketry as intended, rather than only if RestockPlus is installed
 
