@@ -1,6 +1,7 @@
 v3.3.1
 =====
 - Added mini-patch for Far Future Technologies. Unlike other patches included so far, this is not an exhaustive support config; due to FFT's far-endgame nature and propensity for torch drives, we cannot guarantee complete balance while using it. However, due to its general popularity, we've added a mini-patch which puts its experiment definitions and certain ISRU parts in line with the rest of PBC, in case you want to use it in career anyway.
+- Added internal CKAN metadata for future ease of use.
 
 v3.3.0
 =====
