@@ -1,3 +1,8 @@
+v3.3.2
+=====
+- Exploration contracts for moons of planets beyond Duna and Eve now once again require the player to perform a flyby mission to the parent planet before unlocking, as originally intended by Zee (in all honesty, you'll probably have Mission Control at level 3 by then anyway, and the exploration contracts don't have expiry durations, so it's whatever if you don't fully complete them for gas giants). This also applies to OPM contracts.
+- Patched certain science providers from SSPxR to use xmitDataScalar properly as intended by PBC.
+
 v3.3.1
 =====
 - Added mini-patch for Far Future Technologies. Unlike other patches included so far, this is not an exhaustive support config; due to FFT's far-endgame nature and propensity for torch drives, we cannot guarantee complete balance while using it. However, due to its general popularity, we've added a mini-patch which puts its experiment definitions and certain ISRU parts in line with the rest of PBC, in case you want to use it in career anyway.
